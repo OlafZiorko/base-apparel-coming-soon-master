@@ -276,7 +276,7 @@ ul {
     max-width: 1440px;
   }
   .logo__section {
-    background-size: 22%;
+    background-size: 24%;
     background-position-x: 20px;
     background-position-y: 65px;
     max-height: auto;
@@ -290,23 +290,24 @@ ul {
     justify-self: self-end;
   }
   .main__content {
-    padding-block: 2.1rem;
+    padding-block: 1.95rem;
   }
   .main__content .heading {
     font-size: 3.8rem;
     margin-bottom: 1.35rem;
     max-width: 500px;
     line-height: 1.15;
+    letter-spacing: 20px;
   }
 
   .main__content .para {
-    line-height: 1.6;
-    margin-bottom: 2.5rem;
+    line-height: 1.7;
+    margin-bottom: 2.55rem;
     width: 70%;
     font-size: 16px;
   }
   .article__footer {
-    width: 70%;
+    width: 72%;
     margin-left: 0;
   }
   .article__footer input {
@@ -320,7 +321,7 @@ ul {
   }
   .article__footer button {
     border-radius: 2rem 2rem;
-    width: 40%;
+    width: 29%;
   }
   .article__footer button img {
     width: 12px;
